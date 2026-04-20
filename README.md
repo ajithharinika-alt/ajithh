@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="hacker.jpg" alt="Hacker Terminal" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIATING+SECURE+CONNECTION...;root@ajith:~%23+whoami;ACCESS+GRANTED." alt="Typing effect" />
 </div>
 
