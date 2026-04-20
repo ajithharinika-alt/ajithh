@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hacker.jpg" alt="Hacker Terminal" width="100%" />
+  <img src="hacker_an.gif" alt="System Interface Video" width="100%" />
 </div>
 
 <br>
