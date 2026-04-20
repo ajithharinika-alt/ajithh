@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="hacker.gif" alt="Hacker Interface" width="100%" />
+  <img src="hackeran-ezgif.com-video-to-gif-converter.gif" alt="Hacker Interface" width="100%" />
   
   <br><br>
 
   <h2><b>Ajith | B.E CSE(CYS)</b></h2>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=555555&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PUT_YOUR_USERNAME_HERE&color=555555&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <br><br>
@@ -88,8 +88,8 @@ Implementing a backend administrative login terminal with a hacker-themed interf
 <h3>📊 NETWORK_TELEMETRY</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PUT_YOUR_USERNAME_HERE&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUT_YOUR_USERNAME_HERE&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
