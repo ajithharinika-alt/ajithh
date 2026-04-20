@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="hacker_an.gif" alt="System Interface Video" width="100%" />
+  <img src="hacker.gif" alt="Hacker Interface" width="100%" />
+  
+  <br><br>
+
+  <h2><b>Ajith | B.E CSE(CYS)</b></h2>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=555555&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIATING+SECURE+CONNECTION...;root@ajith:~%23+whoami;ACCESS+GRANTED." alt="Typing effect" />
